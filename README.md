@@ -5,4 +5,4 @@
 </p>
 
 Таблицы с баллами:
-* [М69БИ-25](https://docs.google.com/spreadsheets/d/181Fr-tmLs1oO8S-NvX1BATvpR3c2joxodq_zMf0U3Dw/edit?usp=sharing)
+* [М69БИ-26](https://docs.google.com/spreadsheets/d/181Fr-tmLs1oO8S-NvX1BATvpR3c2joxodq_zMf0U3Dw/edit?usp=sharing)
